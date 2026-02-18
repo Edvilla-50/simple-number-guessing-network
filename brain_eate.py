@@ -27,4 +27,4 @@ print(f"Network's Guess: {prediction} ({confidence:.2f}% confident)")
 if prediction == actual_label:
     print("The network got it right I'm so smart vro!")
 else:
-    print("The network was dumb ahh.")
+    print("The network was dumb dumb.")
